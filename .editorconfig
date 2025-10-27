@@ -1,0 +1,10 @@
+ # significa que todos os arquivos no mesmo nivel ou abaixo vão receber essa config
+
+root = true
+
+# Esse [] com * no meio vai dizer para usar essa regra pra todos os arquivos
+[*]
+# Vai usar espaço como indentação e vai usar 2 espaços
+indent_style = space
+indent_size = 2
+
